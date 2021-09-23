@@ -1,7 +1,8 @@
 # Bateria
 Aqui está um instrumento musical feito com JS
 
-#### Link pra você se divertir!
+#### Veja aqui :point_down:
+
 https://juanluky.github.io/Bateria/
 
 
